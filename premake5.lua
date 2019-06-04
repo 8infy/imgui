@@ -25,7 +25,7 @@ project "ImGui"
 		systemversion "latest"
 
 	filter "configurations:Debug"
-		runtine "Debug"
+		runtime "Debug"
 		symbols "on"
 
 	filter "configurations:Release"
